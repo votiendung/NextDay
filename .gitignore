@@ -1,0 +1,11 @@
+# Default ignored files
+.idea
+out
+
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\JAVA\NextDay\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
